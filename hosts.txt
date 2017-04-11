@@ -1,0 +1,27 @@
+﻿# AdAway blocklist by nguoibaotin.blogspot.com
+# Blocking mobile ad providers and some analytics providers
+# 
+# Contribute:
+# Create an issue at https://github.com/AdAway/AdAway/issues
+#
+# Changelog:
+# 2016-07-18 Now hosted on GitHub + Cloudflare
+# 2014-05-18 Now with a valid SSL certificate available at https://adaway.org/hosts.txt
+# 2013-03-29 Integrated some hosts from
+#            http://adblock.gjtech.net/?format=hostfile
+# 2013-03-14 Back from the dead
+# 
+# License:
+# CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
+#
+# Contributions by:
+# Kicelo, Dominik Schuermann
+#
+
+127.0.0.1  localhost
+::1  localhost
+
+# [Vietnamese ads service]
+127.0.0.1 mobilead.vn
+127.0.0.1 eclick.vn
+127.0.0.1 admicro.vn
