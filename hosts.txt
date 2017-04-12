@@ -25,3 +25,4 @@
 127.0.0.1 mobilead.vn
 127.0.0.1 eclick.vn
 127.0.0.1 admicro.vn
+127.0.0.1 logging.mobilead.vn
